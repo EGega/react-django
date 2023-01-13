@@ -1,8 +1,11 @@
 import React from 'react'
+import Headers from './layout/Headers.jsx'
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+      <Headers />
+    </div>
   )
 }
 
